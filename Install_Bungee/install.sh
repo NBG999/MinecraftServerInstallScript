@@ -12,4 +12,4 @@ clear
 echo '[!] Starting server...'
 java -jar BungeeCord.jar
 clear
-echo '[+] Finished!'
+echo '[+] Finished!!'

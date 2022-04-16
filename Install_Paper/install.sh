@@ -11,4 +11,4 @@ clear
 echo '[!] Starting server...'
 java -jar server.jar
 clear
-echo '[+] Finished!'
+echo '[+] Finished!!'
